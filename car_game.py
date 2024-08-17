@@ -289,7 +289,7 @@ while running:
 
     # Display game over or win message
     if gameover:
-        if fuel_time: 
+        if fuel_time and not gamewon: 
             screen.blit(crash, crash_rect)
         pygame.draw.rect(screen, red, (0, 50, width, 100))
         font = pygame.font.Font(pygame.font.get_default_font(), 16)
