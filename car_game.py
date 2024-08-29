@@ -299,8 +299,7 @@ while running:
             font = pygame.font.Font(pygame.font.get_default_font(), 16)
             gameOverText = "You Won! Play again? (Enter Y or N)"
 
-        font = pygame.font.Font(pygame.font.get_default_font(), 16)
-        text = font.render('Game over. Play again? (Enter Y or N)', True, white)
+        text = font.render(gameOverText, True, white)
         text_rect = text.get_rect()
         text_rect.center = (width / 2, 100)
         screen.blit(text, text_rect)
