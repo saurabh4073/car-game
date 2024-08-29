@@ -1,4 +1,3 @@
-Here's a sample README file for your car game project:
 
 ---
 
@@ -45,16 +44,24 @@ Welcome to Car Game! This exciting and challenging game lets you control a vehic
 ## Game Screenshots
 
 1. **Main Game Screen**:
-   ![Main Game Screen](https://github.com/saurabh4073/car-game/assets/main_game_screen.png)
 
-2. **Collision Detected**:
-   ![Collision Detected](https://github.com/saurabh4073/car-game/assets/collision_detected.png)
+   ![Screenshot from 2024-08-29 13-28-17](https://github.com/user-attachments/assets/2c360f8d-4990-43d8-8ad8-7a6789cad29f)
 
-3. **Game Over**:
-   ![Game Over Screen](https://github.com/saurabh4073/car-game/assets/game_over.png)
 
-4. **You Won**:
-   ![You Won Screen](https://github.com/saurabh4073/car-game/assets/you_won.png)
+3. **Collision Detected**:
+
+   ![Screenshot from 2024-08-29 13-28-10](https://github.com/user-attachments/assets/f5baaa19-bd5e-4867-833b-df7c522d5345)
+ 
+
+5. **Game Over**:
+
+   ![Screenshot from 2024-08-29 13-28-57](https://github.com/user-attachments/assets/c4695774-74b6-4bbe-afee-0397db679ec8)
+
+
+7. **You Won**:
+
+   ![Screenshot from 2024-08-29 13-29-40](https://github.com/user-attachments/assets/6a88e1f9-e956-4752-887e-eefaf832f545)
+
 
 ## Contributions
 
